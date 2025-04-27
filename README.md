@@ -3,7 +3,7 @@
   <img width="1000" height="250" src="https://github.com/user-attachments/assets/88cbece1-2a50-4a74-a3e4-cae2da32253d">
 </p>
 
-### i didn't get the job btw
+_**No, I didn't get the job**_
 
 ---
 ## Description
