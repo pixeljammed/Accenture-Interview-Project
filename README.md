@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1000" height="316" src="https://github.com/user-attachments/assets/8469354e-00c0-41cc-9a6e-3e49ee68ac61">
+  <img width="1000" height="316" src="https://github.com/user-attachments/assets/88cbece1-2a50-4a74-a3e4-cae2da32253d">
 </p>
 
 <marquee> I didn't get the job btw </marquee>
