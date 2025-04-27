@@ -3,9 +3,8 @@
 # I made this app on Wed 19th March 2025, in order to show for my "Business skills" interview at Accenture.
 # Just a heads up, they don't require you to make anything, this is just really a proof of concept.
 # It is a simple Tkinter app that generates graphs / diagrams based off a prompt
-# My Claude AI API key: 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
-# There's only $5 on there so no point in people stealing it tbh. You're just broke if you do.
-# I feel like I should disclose I used Claude 3.7 Sonnet to create part of this code.
+# My Claude AI API key: 123XYZ
+# I feel like I should disclose I used Claude 3.7 Sonnet to create part of this code. They encouraged this though.
 
 ### APP FLOW OUTLINE ###
 # - ask the user for what diagram they would like to make
@@ -73,7 +72,7 @@ class MermaidDiagramGenerator:
 
         # Claude API key
         #self.api_key = os.environ.get("ANTHROPIC_API_KEY", "")
-        self.api_key = "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"
+        self.api_key = "123XYZ"
         if not self.api_key:
             self.api_key = tk.simpledialog.askstring("API Key", "Enter your Anthropic API Key:", show="*")
 
