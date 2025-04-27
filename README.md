@@ -12,6 +12,7 @@ _**No, I didn't get the job**_
 - I didn't end up getting the role, but it's worth putting this on GitHub simply for future reference.
 - I was told I didn't have to make any slides or resources but I thought this would impress them.
 - In my perspective I think it went pretty well. 😊
+- **These projects will not recieve any updates.**
 
 ### Project 1
 - Graph + diagram generator using [Claude AI](https://claude.ai/), [Mermaid.js](https://github.com/mermaid-js/mermaid) and tkinter for GUI.
