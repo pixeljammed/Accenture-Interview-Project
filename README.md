@@ -35,3 +35,7 @@
 - They're just python projects, I used PyCharm on my Macbook M2 to create these on a trainride.
 - You can open the files in VSCode, IDLE, PyCharm, or any other similar text editor.
 - Then for the first project only replace "123XYZ" with your API key. It should work!
+
+## Disclaimer
+- These projects contain no legal or intellectual property used by / relating to Accenture or its hiring process.
+- I made these on my own accord without being asked or even suggested in the slightest.
