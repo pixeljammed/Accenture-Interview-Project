@@ -26,7 +26,7 @@
 
 ---
 ## Prerequisites
-- Anthropic API key and requirements to use their service. [Link here(]https://console.anthropic.com).
+- Anthropic API key and requirements to use their service. [Link here](https://console.anthropic.com).
 - [Mermaid.js CLI](https://github.com/mermaid-js/mermaid-cli) installed and set up.
 - [Pandoc for Python](https://github.com/boisgera/pandoc) installed and set up.
 
